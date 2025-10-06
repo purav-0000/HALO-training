@@ -56,7 +56,7 @@ init_env() {
 
     # Hugging face
     hf_cache=./.hf_cache
-    hf_key=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
+    hf_key=# Your hf token here
 
     export TRANSFORMERS_CACHE=${hf_cache}/hub
     export HF_HOME=${hf_cache}/

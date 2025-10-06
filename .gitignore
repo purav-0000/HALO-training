@@ -5,3 +5,6 @@ openai_configs.yaml
 lm-evaluation-harness/
 eval/bigcode-evaluation-harness/
 .cache/
+
+# New additions
+hf_token.txt
