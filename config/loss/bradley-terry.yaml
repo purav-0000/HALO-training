@@ -1,0 +1,7 @@
+# Bradley-Terry Reward Model
+
+trainer: BradleyTerryTrainer
+
+dataloader: PairedPreferenceDataLoader
+
+sync_reference: false
